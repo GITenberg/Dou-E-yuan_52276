@@ -1,6 +1,9 @@
 _repo: Dou-E-yuan_52276
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Dou E yuan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guan, Hanqing
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26159
     wikipedia: http://en.wikipedia.org/wiki/Guan_Hanqing
 description: 'English title: Injustice to Dou E'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52276#Dou-E-yuan
 gutenberg_issued: '2016-06-08'
 gutenberg_type: Text
 identifiers:
